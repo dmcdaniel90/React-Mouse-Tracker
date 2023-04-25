@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://dmcdaniel90.github.io/csb-nlch22/static/css/main.fc612af1.css",
+    "main.js": "https://dmcdaniel90.github.io/csb-nlch22/static/js/main.6d96ae4d.js",
+    "index.html": "https://dmcdaniel90.github.io/csb-nlch22/index.html",
+    "main.fc612af1.css.map": "https://dmcdaniel90.github.io/csb-nlch22/static/css/main.fc612af1.css.map",
+    "main.6d96ae4d.js.map": "https://dmcdaniel90.github.io/csb-nlch22/static/js/main.6d96ae4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc612af1.css",
+    "static/js/main.6d96ae4d.js"
+  ]
+}
